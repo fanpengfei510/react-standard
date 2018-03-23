@@ -1,4 +1,4 @@
-## 神州云动-前端开发 [React](https://github.com/facebook/react) 编程规范
+## 前端开发 [React](https://github.com/facebook/react) 编程规范
 
 [基本规则](基本规则)  
 [命名](#命名)  
